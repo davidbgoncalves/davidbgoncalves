@@ -13,13 +13,13 @@
 
 * Born in São Paulo
 * I Live in Guarulhos, SP
-* Married to Amanda Gonçalves e very happy
+* Married to Amanda Gonçalves
 * Graduated in Computer Science at Universidade Guarulhos in 2009 and studying MBA in Information Technology Management at FIAP.
 * About 13 years of experience in software development (C# as the man language). Much of that experience was as a software engineer at the following companies:
   - Talktelecom (currently IPCorp 91)
-  - Economic value
+  - Valor Econômico
   - SHC Group (JAC Motos and Citroen)
-  - Saraiva Bookstore
+  - Livraria Saraiva
   - Serasa Experian
 * In 2013 I received an invitation to start entrepreneurship in the means of payment area, this is where I had my first participation in a technology company focused on means of payment. 
 However, this company went bankrupt. Then came my second invitation to undertake, only this time not as a technology supplier for the market, but as a player in the market. 
