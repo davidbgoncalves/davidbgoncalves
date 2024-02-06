@@ -2,19 +2,20 @@
 
 ## About this document
 
-* This document is work in progress.
+* This document is a work in progress.
 * This document should not avoid contacting me.
 
 ## Motivation to create this document
 
-* To serve as a reference guide about me
+* To serve as a reference guide
 
-## Who I am?
+## Who am I?
 
-* Born in São Paulo
-* I Live in Guarulhos, SP
+* Born in São Paulo, SP
+* Nowadays, I live in Guarulhos SP
 * Married to Amanda Gonçalves
-* Graduated in Computer Science at Universidade Guarulhos in 2009 and studying MBA in Information Technology Management at FIAP.
+* Graduated in Computer Science at Universidade Guarulhos in 2009.
+* MBA in Information Technology Management at FIAP in 2022.
 * About 13 years of experience in software development (C# as the man language). Much of that experience was as a software engineer at the following companies:
   - Talktelecom (currently IPCorp 91)
   - Valor Econômico
