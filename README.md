@@ -12,18 +12,19 @@
 ## Who am I?
 
 * Born in São Paulo, SP
-* Nowadays, I live in Guarulhos SP
+* Nowadays, I live in Guarulhos, SP
 * Married to Amanda Gonçalves
 * Graduated in Computer Science at Universidade Guarulhos in 2009.
 * MBA in Information Technology Management at FIAP in 2022.
-* About 13 years of experience in software development (C# as the man language). Much of that experience was as a software engineer at the following companies:
+* About 13 years of experience in software development (C# as the main language). Much of that experience was as a software engineer at the following companies:
   - Talktelecom (currently IPCorp 91)
   - Valor Econômico
   - SHC Group (JAC Motos and Citroen)
   - Livraria Saraiva
   - Serasa Experian
-* In 2013 I received an invitation to start entrepreneurship in the means of payment area, this is where I had my first participation in a technology company focused on means of payment. 
-However, this company went bankrupt. Then came my second invitation to undertake, only this time not as a technology supplier for the market, but as a player in the market. 
+* In 2013 I received an invitation to start entrepreneurship in the payment market, this is where I had my first participation in a technology company focused payment methods. 
+However, this company went bankrupt.
+* In the end of 2015 I was invited to undertake, only this time not as a technology supplier for the market, but as a player in the market. 
 It was where we created BestPay that I was the director for 2 years and 5 months. My responsibility was in the area of technology and operations.
 * In 2017, my partner Fernando Castro and I decided to sell our stake in BestPay and open a sub-acquirer where we were the majority shareholders, 
 that's where we created JoyPay together with Daniel Nery's participation as our partner. As the CTO my responsibility was the technology, operations and finance areas.
